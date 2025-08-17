@@ -17,7 +17,7 @@
 
 #include <string.h>
 #include <errno.h>
-#include <lmdb.h>
+#include "lmdb.h"
 
 #define CAML_NAME_SPACE
 #include <caml/mlvalues.h>
